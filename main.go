@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/efedyakov/project2/blob/main/internal/logger"
+	"github.com/efedyakov/project2/internal/logger"
 )
 
 const appName = "bannerrotation"
